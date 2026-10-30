@@ -24,7 +24,7 @@ plt.close('all')
 # Settings:
 save_model    = 1
 run_training  = 'Run' # 'Run' or 'DisplayOld'
-old_model_name = 'APA-Petit-1'#'2025-04-19_23-56-09'
+old_model_name = 'APA-Petit-1'
 
 
 # Dataset:
